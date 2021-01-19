@@ -35,3 +35,7 @@ li{
 label{
     font-family: 'Ubuntu', sans-serif;
 }
+
+img{
+    border-radius: 50%;
+}
